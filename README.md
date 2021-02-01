@@ -1,3 +1,3 @@
 # JSP
-  ---- Board
-       : jsp board with fileupload(multipart) / ckeditor / dbcp2
+  # Board
+    : jsp board with fileupload(multipart) / ckeditor / dbcp2
